@@ -44,3 +44,6 @@
         font-variant: small-caps;
         text-decoration-line: underline;
     }
+    ul {
+        list-style-type: circle;
+    }
